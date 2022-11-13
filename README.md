@@ -2,7 +2,7 @@
 # Project 3
 
 # Introduction (problem or your goal):
-
+ Airlines prioritize customer satisfaction at all times. Customers who are dissatisfied or disengaged naturally result in fewer passengers and less revenue. It is important that customers have a positive experience every time they travel. Flights that are on time, have good in-flight entertainment, and provide good food and drinks  are obvious contributors to a positive experience and enhanced loyalty. our goal is to predict airlines passenger satisfaction and identify what factors that affect the  satisfaction the most.
  
 # Team members: 
 - Ghadah Alabduljabbar
@@ -10,7 +10,7 @@
 - Asma Almalki
 
 # Dataset Overview and Source:
- The dataset contains an airline passenger satisfaction survey, and it shows What factors are highly correlated to a satisfied (or dissatisfied) passenger
+ The dataset contains an airline passenger satisfaction survey, and it shows What factors are highly correlated to a satisfied (or dissatisfied) passenger.
 ## Source : https://www.kaggle.com/datasets/johndddddd/customer-satisfaction
 
 
